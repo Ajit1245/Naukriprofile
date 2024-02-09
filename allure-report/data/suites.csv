@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Feb 10 00:54:07 IST 2024","Sat Feb 10 00:54:20 IST 2024","12926","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin2]",""
+"passed","Sat Feb 10 00:53:38 IST 2024","Sat Feb 10 00:53:54 IST 2024","16149","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin1]",""
+"passed","Sat Feb 10 00:53:05 IST 2024","Sat Feb 10 00:53:24 IST 2024","18969","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin0]",""
+"passed","Sat Feb 10 00:54:32 IST 2024","Sat Feb 10 00:54:46 IST 2024","13865","testCases","test_UserLogin_params","Test_Login_Params","","","test_user_login_params_004[DataForLogin3]",""

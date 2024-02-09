@@ -1,0 +1,9 @@
+INFO     Test_Login_Params:test_UserLogin_params.py:19 Test_case test_user_login_params_004 is started
+INFO     Test_Login_Params:test_UserLogin_params.py:21 Opening browser and navigating to demo_nop_com
+INFO     Test_Login_Params:test_UserLogin_params.py:23 Entering email - admin@yourstore.com1
+INFO     Test_Login_Params:test_UserLogin_params.py:25 Entering Password - admin1
+INFO     Test_Login_Params:test_UserLogin_params.py:27 Click on login button
+INFO     Test_Login_Params:test_UserLogin_params.py:51 Login Fail
+INFO     Test_Login_Params:test_UserLogin_params.py:53 Expected Fail
+INFO     Test_Login_Params:test_UserLogin_params.py:64 Test_case test_user_login_params_004 is Passed
+INFO     Test_Login_Params:test_UserLogin_params.py:69 Test_case test_user_login_params_004 is Completed
